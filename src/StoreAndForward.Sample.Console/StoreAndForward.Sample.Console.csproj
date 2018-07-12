@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>DigitalHealth.StoreAndForward.Sample.Console</RootNamespace>
     <AssemblyName>DigitalHealth.StoreAndForward.Sample.Console</AssemblyName>
-    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <LangVersion>7.1</LangVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
